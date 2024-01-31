@@ -105,7 +105,7 @@ function Navbar({ postpage }) {
         <div className="img">
           <img src="/OIG.svg" alt="HOME" />
         </div>
-        <span style={{ textDecoration: "underline" }} >All Blogs</span>
+        <span style={{ textDecoration: "underline" }} >Gops Blogspot</span>
       </div>
       <div className="search">
         <div className="search_wrap">
