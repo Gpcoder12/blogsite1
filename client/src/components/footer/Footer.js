@@ -69,23 +69,23 @@ function Footer() {
           <h3>Connect With Us</h3>
           <ul>
             <li>
-              <a href="https://github.com/Prashant0664" className="subfot">Instagram</a>
+              <a href="https://github.com/Gpcoder12" className="subfot">Instagram</a>
             </li>
             <li>
-              <a href="https://github.com/Prashant0664" className="subfot">LinkedIn</a>
+              <a href="https://github.com/Gpcoder12" className="subfot">LinkedIn</a>
             </li>
             <li>
-              <a href="https://github.com/Prashant0664" className="subfot">YouTube</a>
+              <a href="https://github.com/Gpcoder12" className="subfot">YouTube</a>
             </li>
           </ul>
         </div>
       </div>
       <div className="footer-info">
         <p>
-          &copy; 2021-2025 @ Mady By Prashant
+          &copy; 2023-2024 @ Made By Gopolang Mogashoa
         </p>
         <p>
-          For any issue kindly send mail to prashant201103@gmail.com
+          For any issue kindly send mail to mogashoag@yahoo.com
         </p>
       </div>
     </footer>
