@@ -1,0 +1,5 @@
+[build]
+base="/blogsite1"
+command="npm run build"
+publish="build"
+funtions="src/functions"
